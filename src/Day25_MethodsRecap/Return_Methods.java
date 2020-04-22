@@ -1,0 +1,57 @@
+package Day25_MethodsRecap;
+/*
+Return the max of a & b (int a, int b)
+-use if / else statement
+ */
+public class Return_Methods {
+
+
+
+    public static void main(String[] args) {
+
+        System.out.println( max(10,9) );
+
+        System.out.println( max2(10,9) );
+
+
+
+    }
+
+
+
+    // a, b
+
+    public static int max(int a, int b){
+// longer version using an empty variable MAX
+        int max = 0;
+        if(a >= b ){
+            max = a;
+        }else{
+            max = b;
+        }
+        return  max;
+    }
+
+    // shorter version
+
+    public static int max2(int a, int b){
+
+        if(a>=b){
+            return a;// user Return instead of SOUT or creating a blank variable (like MAX)
+        }
+        return b;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

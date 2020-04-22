@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Spring2020B18_Java" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Yto3duB13v9oMVLUv6GCneYW2t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OfficeHours2" />
+      <recent name="OfficeHours" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Uniques">
+    <configuration name="Frequency_WarmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOverLoading.Frequency_WarmUp" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOverLoading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_EvenOdd" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Replits_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Methods_Return_ProfitOrLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_Return_ProfitOrLoss" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Replits_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25_MethodsRecap.Quiz" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day25_MethodsRecap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day26_MethodOverLoading.Uniques" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day26_MethodOverLoading.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.Frequency_WarmUp" />
+        <item itemvalue="Application.Methods_Return_ProfitOrLoss" />
+        <item itemvalue="Application.Methods_EvenOdd" />
+        <item itemvalue="Application.Quiz" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="" />
+      <created>1583771058152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583771058152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="175" y="0" key="#Notifications" timestamp="1583783681191">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="175" y="0" key="#Notifications/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1583783681191" />
+    <state x="444" y="6" key="#com.intellij.ide.util.MemberChooser" timestamp="1584382993688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="6" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584382993688" />
+    <state x="449" y="229" width="467" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584555187845">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="229" width="467" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584555187845" />
+    <state x="449" y="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584555141238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584555141238" />
+    <state x="380" y="2" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1586999463908">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="380" y="2" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586999463908" />
+    <state x="1852" y="140" key="FileChooserDialogImpl" timestamp="1586995640619">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995640619" />
+    <state width="1625" height="195" key="GridCell.Tab.0.bottom" timestamp="1587482671936">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="633" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962615" />
+    <state width="1289" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1311" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="1625" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671936" />
+    <state width="1311" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
+    <state width="1625" height="195" key="GridCell.Tab.0.center" timestamp="1587482671935">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="633" height="129" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
+    <state width="1289" height="130" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1311" height="212" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="1625" height="195" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
+    <state width="1311" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
+    <state width="1625" height="195" key="GridCell.Tab.0.left" timestamp="1587482671935">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="633" height="129" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
+    <state width="1289" height="130" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1311" height="212" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="1625" height="195" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
+    <state width="1311" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
+    <state width="1625" height="195" key="GridCell.Tab.0.right" timestamp="1587482671935">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state width="633" height="129" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
+    <state width="1289" height="130" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1311" height="212" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="1625" height="195" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
+    <state width="1311" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
+    <state width="1311" height="212" key="GridCell.Tab.1.bottom" timestamp="1587431931051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="212" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="928" height="236" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586133147108" />
+    <state width="1311" height="212" key="GridCell.Tab.1.center" timestamp="1587431931051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="212" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="928" height="236" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586133147108" />
+    <state width="1311" height="212" key="GridCell.Tab.1.left" timestamp="1587431931051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="212" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="928" height="236" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586133147108" />
+    <state width="1311" height="212" key="GridCell.Tab.1.right" timestamp="1587431931051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1311" height="212" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
+    <state width="928" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586133147108" />
+    <state x="1535" y="0" key="SettingsEditor" timestamp="1586995679680">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586888733200" />
+    <state x="1535" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995679680" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1584114177768">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584114177768" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587572200853">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586470172594" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587473235962" />
+    <state x="1480" y="229" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587129664925" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587572200853" />
+    <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587246094767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1585663292701" />
+    <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1587246094767" />
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1584712158356">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="dock-window-1/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584712158356" />
+    <state x="350" y="68" key="extract.method.dialog" timestamp="1586866221090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="68" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586866221090" />
+    <state x="1690" y="258" width="865" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586995642685">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1690" y="258" width="865" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995642685" />
+    <state x="362" y="171" key="run.anything.popup" timestamp="1586111742128">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="362" y="171" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586111742128" />
+    <state x="262" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1587171029064">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586805406298" />
+    <state x="1688" y="-1" width="1034" height="1435" key="search.everywhere.popup/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587045679244" />
+    <state x="262" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587171029064" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Replits_Practice/SwitchChar_Scanner.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day23_Methods/UniqueValues_WarmUp.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day23_Methods/MethodParamtersTask.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day25_MethodsRecap/WamUp2.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
