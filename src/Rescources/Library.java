@@ -18,11 +18,7 @@ public class Library {
         }
         return  Reverse;
     }
-    // remove duplicates from string
-    // Frequency of string
-    // merge two array and return third one
-    // max number from array
-    // min number from array
+
     public static String RemoveDuplicates(String str){
         String result =  "";      //AB
         for(int i = 0; i < str.length(); i++){
@@ -57,6 +53,27 @@ public class Library {
         return result;
 
     }
+
+    public static int Frequency(String str, char ch){// counts the chars frequency
+        char [] arr = str.toCharArray(); // turns the array to a CHAR array -> [A,A,A]
+        // you can compare ch to ever char in the arr array using loop
+
+        int count = 0; // used to count
+        for(char each:arr ){ // each represents every char at each index [0,1,2]
+
+            if(each == ch){// if each is equal to char [A] = [A]
+                count++;// then increase the count by 1
+            }
+        }
+        return count;
+    }
+
+
+
+
+
+
+
 
     // remove duplicates from string
     // Frequency of string

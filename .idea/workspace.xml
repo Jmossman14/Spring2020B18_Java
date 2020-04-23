@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="" />
+    <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Dates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Dates_Formatting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Days.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Finding_Min.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Quiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day27_Date_Time/Unique_Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/classNotes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/method_overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/return_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/return_Statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/return_method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OfficeHours/_04_22_2020/void_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Replits_Practice/Methods_Return_Hamlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day26_MethodOverLoading/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day26_MethodOverLoading/Uniques.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Rescources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Rescources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day26_MethodOverLoading/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day26_MethodOverLoading/Uniques.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rescources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rescources/Library.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +52,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -41,13 +60,13 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Uniques">
-    <configuration name="Frequency_WarmUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day26_MethodOverLoading.Frequency_WarmUp" />
+  <component name="RunManager" selected="Application.Dates_Formatting">
+    <configuration name="Dates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27_Date_Time.Dates" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day26_MethodOverLoading.*" />
+          <option name="PATTERN" value="Day27_Date_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_EvenOdd" />
+    <configuration name="Dates_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27_Date_Time.Dates_Formatting" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits_Practice.*" />
+          <option name="PATTERN" value="Day27_Date_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,8 +87,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_Return_ProfitOrLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_Return_ProfitOrLoss" />
+    <configuration name="Methods_Return_Hamlet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_Return_Hamlet" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -82,11 +101,11 @@
       </method>
     </configuration>
     <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day25_MethodsRecap.Quiz" />
+      <option name="MAIN_CLASS_NAME" value="Day27_Date_Time.Quiz" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day25_MethodsRecap.*" />
+          <option name="PATTERN" value="Day27_Date_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day26_MethodOverLoading.Uniques" />
+    <configuration name="return_Method2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours._04_22_2020.return_Method2" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day26_MethodOverLoading.*" />
+          <option name="PATTERN" value="OfficeHours._04_22_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Uniques" />
-        <item itemvalue="Application.Frequency_WarmUp" />
-        <item itemvalue="Application.Methods_Return_ProfitOrLoss" />
-        <item itemvalue="Application.Methods_EvenOdd" />
+        <item itemvalue="Application.Dates_Formatting" />
         <item itemvalue="Application.Quiz" />
+        <item itemvalue="Application.Dates" />
+        <item itemvalue="Application.Methods_Return_Hamlet" />
+        <item itemvalue="Application.return_Method2" />
       </list>
     </recent_temporary>
   </component>
@@ -132,6 +151,10 @@
       <updated>1583771058152</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="return_Method" />
+    <option name="LAST_COMMIT_MESSAGE" value="return_Method" />
   </component>
   <component name="WindowStateProjectService">
     <state x="175" y="0" key="#Notifications" timestamp="1583783681191">
@@ -154,42 +177,48 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="380" y="2" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586999463908" />
-    <state x="1852" y="140" key="FileChooserDialogImpl" timestamp="1586995640619">
-      <screen x="1366" y="0" width="1680" height="1010" />
+    <state x="197" y="0" key="CommitChangelistDialog2" timestamp="1587599034356">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="197" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587573821470" />
+    <state x="197" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587599034356" />
+    <state x="468" y="115" key="FileChooserDialogImpl" timestamp="1587574394637">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="115" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574394637" />
     <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995640619" />
-    <state width="1625" height="195" key="GridCell.Tab.0.bottom" timestamp="1587482671936">
+    <state width="1226" height="321" key="GridCell.Tab.0.bottom" timestamp="1587660619689">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="633" height="129" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962615" />
     <state width="1289" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
     <state width="1311" height="212" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
-    <state width="1625" height="195" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671936" />
-    <state width="1311" height="104" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
-    <state width="1625" height="195" key="GridCell.Tab.0.center" timestamp="1587482671935">
+    <state width="1226" height="321" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587660619689" />
+    <state width="1311" height="135" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587603548049" />
+    <state width="1226" height="321" key="GridCell.Tab.0.center" timestamp="1587660619689">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="633" height="129" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
     <state width="1289" height="130" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
     <state width="1311" height="212" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
-    <state width="1625" height="195" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
-    <state width="1311" height="104" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
-    <state width="1625" height="195" key="GridCell.Tab.0.left" timestamp="1587482671935">
+    <state width="1226" height="321" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587660619689" />
+    <state width="1311" height="135" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587603548048" />
+    <state width="1226" height="321" key="GridCell.Tab.0.left" timestamp="1587660619689">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="633" height="129" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
     <state width="1289" height="130" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
     <state width="1311" height="212" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
-    <state width="1625" height="195" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
-    <state width="1311" height="104" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
-    <state width="1625" height="195" key="GridCell.Tab.0.right" timestamp="1587482671935">
+    <state width="1226" height="321" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587660619689" />
+    <state width="1311" height="135" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587603548048" />
+    <state width="1226" height="321" key="GridCell.Tab.0.right" timestamp="1587660619689">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="633" height="129" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586635962614" />
     <state width="1289" height="130" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
     <state width="1311" height="212" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
-    <state width="1625" height="195" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587482671935" />
-    <state width="1311" height="104" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587252367035" />
+    <state width="1226" height="321" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587660619689" />
+    <state width="1311" height="135" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587603548049" />
     <state width="1311" height="212" key="GridCell.Tab.1.bottom" timestamp="1587431931051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -210,20 +239,20 @@
     </state>
     <state width="1311" height="212" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587431931051" />
     <state width="928" height="236" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586133147108" />
-    <state x="1535" y="0" key="SettingsEditor" timestamp="1586995679680">
-      <screen x="1366" y="0" width="1680" height="1010" />
+    <state x="70" y="0" key="SettingsEditor" timestamp="1587574397390">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="70" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586888733200" />
+    <state x="70" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574397390" />
     <state x="1535" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995679680" />
     <state width="623" height="498" key="SwitcherDM" timestamp="1584114177768">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584114177768" />
-    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587572200853">
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1587650625591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1586470172594" />
-    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587473235962" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587650625591" />
     <state x="1480" y="229" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587129664925" />
     <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587572200853" />
     <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587246094767">
@@ -231,6 +260,10 @@
     </state>
     <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1585663292701" />
     <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1587246094767" />
+    <state x="426" y="262" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587573812137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="426" y="262" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587573812137" />
     <state x="92" y="92" width="1182" height="544" key="dock-window-1" timestamp="1584712158356">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -239,20 +272,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="350" y="68" key="extract.method.dialog/0.0.1366.728@0.0.1366.728" timestamp="1586866221090" />
+    <state x="0" y="0" key="new project wizard" timestamp="1587670032909">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587670032909" />
     <state x="1690" y="258" width="865" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586995642685">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="1690" y="258" width="865" height="367" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1586995642685" />
-    <state x="362" y="171" key="run.anything.popup" timestamp="1586111742128">
+    <state x="362" y="171" key="run.anything.popup" timestamp="1587573663771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="362" y="171" key="run.anything.popup/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587573663771" />
     <state x="362" y="171" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586111742128" />
-    <state x="262" y="-1" width="841" height="1035" key="search.everywhere.popup" timestamp="1587171029064">
+    <state x="262" y="0" width="841" height="726" key="search.everywhere.popup" timestamp="1587602558026">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586805406298" />
+    <state x="262" y="0" width="840" height="726" key="search.everywhere.popup/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574177359" />
     <state x="1688" y="-1" width="1034" height="1435" key="search.everywhere.popup/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587045679244" />
-    <state x="262" y="-1" width="841" height="1035" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587171029064" />
+    <state x="262" y="0" width="841" height="726" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1587602558026" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -276,6 +314,11 @@
           <url>file://$PROJECT_DIR$/src/Day25_MethodsRecap/WamUp2.java</url>
           <line>1</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day27_Date_Time/Dates_Formatting.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

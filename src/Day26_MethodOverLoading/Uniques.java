@@ -14,7 +14,7 @@ public class Uniques {
 
 
         for(int i = 0; 0 < str.length();i++){ // i represents each index # in str
-            int num = FrequencyChar(str, str.charAt(0)); // use .CharAT since str is a STRING
+            int num = Frequency(str, str.charAt(0)); // use .CharAT since str is a STRING
             if(num == i){
                 result += str.charAt(i); // concats the result to the character
             }
@@ -32,7 +32,7 @@ public class Uniques {
         String result = ""; // returns unique chars -> ACD
 
         for(int i = 0; 0 < str.length();i++){ // i represents each index # in str
-            int num = FrequencyChar(str, str.charAt(0));  // use .CharAT since str is a STRING
+            int num = Frequency(str, str.charAt(0));  // use .CharAT since str is a STRING
             if(num == i){
                 result += str.charAt(i); // concats the result to the character
             }
@@ -43,7 +43,7 @@ public class Uniques {
 
 
 
-    public static int FrequencyChar(String str, char ch){// counts the chars frequency
+    public static int Frequency(String str, char ch){// counts the chars frequency
         char [] arr = str.toCharArray(); // turns the array to a CHAR array -> [A,A,A]
         // you can compare ch to ever char in the arr array using loop
 
