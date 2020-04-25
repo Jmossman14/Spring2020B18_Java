@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day28_DateTime/Birthday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_DateTime/Birthday.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Birthday">
+  <component name="RunManager" selected="Application.Methods_Strings_MergeStrings">
     <configuration name="Birthday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day28_DateTime.Birthday" />
       <module name="Spring2020B18_Java" />
@@ -86,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day28_DateTime.Time" />
+    <configuration name="Methods_Strings_MergeStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.Methods_Strings_MergeStrings" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day28_DateTime.*" />
+          <option name="PATTERN" value="Replits_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Methods_Strings_MergeStrings" />
         <item itemvalue="Application.Birthday" />
         <item itemvalue="Application.DateTimeFormatting" />
         <item itemvalue="Application.DateTime" />
         <item itemvalue="Application.time_Formatting" />
-        <item itemvalue="Application.Time" />
       </list>
     </recent_temporary>
   </component>

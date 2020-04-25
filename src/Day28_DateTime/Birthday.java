@@ -10,7 +10,7 @@ public class Birthday {
     }
 
     public static void HappyBirthday(int year, int month, int day) {
-        LocalDate birthday = LocalDate.of(year, month, day);
+        LocalDate birthday= LocalDate.of(year, month, day);
         LocalDate today = LocalDate.now();
         int month2 = today.getMonthValue();
         int day2 = today.getDayOfMonth();
