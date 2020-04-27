@@ -12,7 +12,7 @@ package Day29_Wrapper_ArrayList;
 Parse method Boolean: any string other thant TRUE or FALSE will
             ALWAYS return FALSE
          */
-public class Parse_ValueOf {
+public class Parse_Methods {
     public static void main(String[] args) {
         // convert String to Int
         String str = "123";
