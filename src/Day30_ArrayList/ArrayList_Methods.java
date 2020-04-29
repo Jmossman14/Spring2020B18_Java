@@ -1,5 +1,28 @@
 package Day30_ArrayList;
 /*
+Methods:
+        add(Object): adds objects to the arraylist
+        add(index, Object): adds the object at the given index
+                list ==>   {1,3,4};
+                         list.add(1 , 2)
+                list ==> {1,2,3,4}
+
+                list2 ==> {"A", "C", "D"}
+                "B"list2.add("B"); ==> {A, C, D, B}
+                list2.add(1, "B");  ==> {A, B, C, D}
+
+
+    set(index, Object): replaces the original object at given index with the new given object replacing
+
+    remove(int index): object at the given index will be removed. ONLY one
+
+    remove(Object): given object will be removed, returns boolean. ONLY one
+
+clear(): remove everything from arrayList, size will be 0
+
+indexOf(Object): returns the index number of the object int
+            list ==> {"A", "A", "B"}
+            list.indexOf("A") ==> 0
 
  */
 import java.lang.reflect.Array;
