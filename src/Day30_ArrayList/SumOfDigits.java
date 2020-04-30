@@ -16,14 +16,14 @@ public class SumOfDigits {
      */
 
     public static void main(String[] args) {
-        String str = "a1b2c3d4";
-        char[] arr = str.toCharArray();
+        String str = "a1b2c3d4"; // find sum of all the digits
+        char[] arr = str.toCharArray(); // data collection to hold all of STR ( to.CharArray; )
 
         System.out.println(Arrays.toString(arr));
 
-        int sum = 0;    // will conatain sum of all digits
+        int sum = 0;    // will hold the sum of all digits
 
-        for(char each  : arr ){ // '0'
+        for(char each  : arr ){ // arr holds all the chars
 
             if(each >= 48 && each <= 57){  // if each is digit , we will convert to int and add it to sum
                 sum += Integer.parseInt(""+each);  // "0"

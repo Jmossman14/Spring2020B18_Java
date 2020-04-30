@@ -43,9 +43,9 @@ public class ArrayMethods2 {
             list2.add(each);
         }
 
+
+
         System.out.println(list2);
-
-
 
 
     }
