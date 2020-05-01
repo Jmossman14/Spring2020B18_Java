@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RetainAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RetainAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/_04_27_2020/ArrayMethods2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/_04_27_2020/ArraysMethods1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,7 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayList_Methods2">
+  <component name="RunManager" selected="Application.OddNumbers">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OfficeHours._04_27_2020.ArrayList_Methods" />
       <module name="Spring2020B18_Java" />
@@ -70,19 +67,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="OfficeHours._04_27_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Array_List_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day29_Wrapper_ArrayList.Array_List_Practice" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day29_Wrapper_ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,13 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.OddNumbers" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Replits_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddNumbers" />
         <item itemvalue="Application.ArrayList_Methods2" />
         <item itemvalue="Application.ArrayList_Methods" />
         <item itemvalue="Application.Method_String_CleanWord" />
         <item itemvalue="Application.ListPractice_2" />
-        <item itemvalue="Application.Array_List_Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -181,35 +178,35 @@
     </state>
     <state x="468" y="115" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574394637" />
     <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587751893176" />
-    <state width="1311" height="122" key="GridCell.Tab.0.bottom" timestamp="1588293984676">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1289" height="150" key="GridCell.Tab.0.bottom" timestamp="1588297059726">
+      <screen x="1366" y="0" width="1344" height="800" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984676" />
-    <state width="1289" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1289" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297059726" />
     <state width="1311" height="253" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587674352215" />
     <state width="1102" height="298" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1588005704678" />
     <state width="524" height="211" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588207455246" />
-    <state width="1311" height="122" key="GridCell.Tab.0.center" timestamp="1588293984675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1289" height="150" key="GridCell.Tab.0.center" timestamp="1588297059726">
+      <screen x="1366" y="0" width="1344" height="800" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
-    <state width="1289" height="130" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1289" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297059726" />
     <state width="1311" height="253" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587674352214" />
     <state width="1102" height="298" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1588005704677" />
     <state width="524" height="211" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588207455246" />
-    <state width="1311" height="122" key="GridCell.Tab.0.left" timestamp="1588293984675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1289" height="150" key="GridCell.Tab.0.left" timestamp="1588297059726">
+      <screen x="1366" y="0" width="1344" height="800" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
-    <state width="1289" height="130" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1289" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297059726" />
     <state width="1311" height="253" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587674352195" />
     <state width="1102" height="298" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1588005704677" />
     <state width="524" height="211" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588207455246" />
-    <state width="1311" height="122" key="GridCell.Tab.0.right" timestamp="1588293984675">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1289" height="150" key="GridCell.Tab.0.right" timestamp="1588297059726">
+      <screen x="1366" y="0" width="1344" height="800" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
-    <state width="1289" height="130" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1586472041049" />
+    <state width="1289" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297059726" />
     <state width="1311" height="253" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587674352215" />
     <state width="1102" height="298" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1588005704677" />
     <state width="524" height="211" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588207455246" />
