@@ -1,5 +1,29 @@
 package Day31_BulkOperations;
 
+/*
+Bulk Operations:
+		containsAll(CollectionType): verifies if all objects in CollectionType are
+		 contained in the list or not, returns boolean
+
+		addAll(CollectionType): adds multiple objects, adds all the objects from
+		given collection type
+
+		removeAll(CollectionType): removes multiple objetcs, removes all the matching
+		 objects
+
+		retainAll(CollectionType): emoves all the unmatching objects
+					{1,2,3,4,5,6,7,1,2,3,4}
+					removeAll(1,2,3,4) ==> {5,6,7}
+					retainAll(1,2,3,4) ==> {1,2,3,4,1,2,3,4 }
+
+
+Arrays.asList(object1, object2 ..): returns the collection type (List)
+            // you can paste as many objects as you want
+
+ ArrayList<Integer> numList = new ArrayList<>(CollectionType);
+
+
+ */
 
 
 
@@ -67,31 +91,11 @@ public class Bulk_RemoveAll {
 
         String[] names = {"Ahmed", "John", "Aaron", "Ahmed", "Daniel", "Ahmed", "Ahmed"};
 
-
-
         ArrayList<String> nameList = new ArrayList<>( Arrays.asList(names) );
-
-        System.out.println(nameList);
-
-
+        System.out.println(nameList); // outputs all names
 
         nameList.removeAll(  Arrays.asList("Ahmed")  );
-
-
-
-        System.out.println(nameList);
-
-
-
-
-
-
-
-
-
-
-
-
+        System.out.println(nameList);// doesnt output ahmed
 
         /*
 
