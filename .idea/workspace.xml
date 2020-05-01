@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/ArrayList_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_AddAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_AddAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_ContainsAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_ContainsAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RemoveAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RemoveAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RetainAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/Bulk_RetainAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day31_BulkOperations/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_BulkOperations/RemoveDuplicates.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
