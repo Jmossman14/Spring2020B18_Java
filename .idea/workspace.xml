@@ -47,7 +47,7 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OddNumbers">
+  <component name="RunManager" selected="Application.ArrayList_removeAll">
     <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OfficeHours._04_27_2020.ArrayList_Methods" />
       <module name="Spring2020B18_Java" />
@@ -74,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListPractice_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day29_Wrapper_ArrayList.ListPractice_2" />
+    <configuration name="ArrayList_removeAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits_Practice.ArrayList_removeAll" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day29_Wrapper_ArrayList.*" />
+          <option name="PATTERN" value="Replits_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayList_removeAll" />
         <item itemvalue="Application.OddNumbers" />
         <item itemvalue="Application.ArrayList_Methods2" />
         <item itemvalue="Application.ArrayList_Methods" />
         <item itemvalue="Application.Method_String_CleanWord" />
-        <item itemvalue="Application.ListPractice_2" />
       </list>
     </recent_temporary>
   </component>
@@ -243,13 +243,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584114177768" />
-    <state x="95" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1588360350105">
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588424374559">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="95" y="166" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588360350105" />
     <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587923249703" />
     <state x="1480" y="229" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587995978986" />
-    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587683634585" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1588424374559" />
     <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587246094767">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
