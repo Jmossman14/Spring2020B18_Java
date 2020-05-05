@@ -13,9 +13,11 @@ public class MoveZeros {
 			DO NOT USE SORT method, DO NOT decleare  any extra lists
      */
 
+
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();
         list.addAll(Arrays.asList(10, 0, 20, 0, 30, 0, 40, 0, 0, 0) );
+                // use arrays.asList to paste elements you want returned
         System.out.println(list);
 
         int count = 0;
@@ -27,11 +29,11 @@ public class MoveZeros {
 
         System.out.println(count);
 
-        // [1,2,3,4]
+        // [1,2,3,4] list without zeros
         list.removeAll( Arrays.asList(0) ); // removed all the zeros from the list
         System.out.println(list);
 
-        //[1,2,3,4,0,0,0,..]
+        //[1,2,3,4,0,0,0,..] adds  zeros to the list
         for(int i =0; i < count; i++ ){
             list.add(0);
         }

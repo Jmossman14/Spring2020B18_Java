@@ -12,8 +12,6 @@ public class Duplicates {
 			list: {"A", "B", "B", "C", "D", "D"};
 			output: ["B", "D"]
      */
-
-
     public static void main(String[] args) {
 
         ArrayList<String> list = new ArrayList<>();
@@ -55,10 +53,6 @@ public class Duplicates {
             duplicates.add(  list.get(i)  );
         }
   */
-
-
-
-
     }
 
 }
