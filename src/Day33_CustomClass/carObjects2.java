@@ -11,13 +11,15 @@ import java.util.Arrays;
             car1.getCarInfo();
 
             Car car2 = new Car();
-            car2.setCarInfo("Toyota", "Corolla", 2020, "Red");
-        /*
+                  /*
         car2.Brand = "Toyota";
         car2.model = "Corolla";
         car2.year = 2020;
         car2.color = "Red";
          */
+                  // Call setCarInfo for a shorter version
+            car2.setCarInfo("Toyota", "Corolla", 2020, "Red");
+
 
             car2.getCarInfo();
 

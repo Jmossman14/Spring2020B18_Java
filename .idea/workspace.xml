@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method" />
+    <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/CapitolOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/CapitolOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/CatObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/CatObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Carpet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,9 +54,9 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.carObjects">
-    <configuration name="Duplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day33_CustomClass.Duplicates" />
+  <component name="RunManager" selected="Application.CatObjects">
+    <configuration name="CatObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day33_CustomClass.CatObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
@@ -64,7 +73,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day33_CustomClass.*" />
+          <option name="PATTERN" value="Rescources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,7 +86,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day33_CustomClass.*" />
+          <option name="PATTERN" value="Rescources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,7 +99,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day33_CustomClass.*" />
+          <option name="PATTERN" value="Rescources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,7 +112,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day33_CustomClass.*" />
+          <option name="PATTERN" value="Rescources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CatObjects" />
         <item itemvalue="Application.carObjects" />
         <item itemvalue="Application.ExtractChars3" />
         <item itemvalue="Application.ExtractChars2" />
         <item itemvalue="Application.ExtractChars" />
-        <item itemvalue="Application.Duplicates" />
       </list>
     </recent_temporary>
   </component>

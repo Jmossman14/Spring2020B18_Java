@@ -9,12 +9,16 @@ public class carObjects {
         car1.year = 2020;
         car1.color = "Red";
 
+        // instance variables are object variables, we can CALL then through the object name
         System.out.println(car1.Brand);
         System.out.println(car1.model);
         System.out.println(car1.year);
         System.out.println(car1.color);
 
+        car1.drive(); // prints out Brand+" is started"
+        car1.start();
 
+// you can assign new data to a variable by renaming the variable Name
         System.out.println("========================================");
         Car car2 = new Car();
         car2.Brand = "Toyota";
@@ -27,10 +31,10 @@ public class carObjects {
         System.out.println(car2.year);
         System.out.println(car2.color);
 
-        car2.start();
+        car2.start(); // prints
         car2.drive();
 
-        car2.getCarInfo();
+        car2.getCarInfo(); // gets all data from the cariables in CAR
 
         System.out.println("============================================");
 

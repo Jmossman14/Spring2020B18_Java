@@ -8,7 +8,7 @@ cat class:
  */
 
 public class Cat {
-
+// data attributes of cat
     String breed;
     String color;
     int age;
@@ -21,18 +21,18 @@ public class Cat {
         System.out.println(name+" is sleeping");
     }
 
-    public void eat(String catFood){
+    public void eat(String catFood){ // parameter will allow different String inputs of cat food
 
         System.out.println(name + " is eating "+catFood);
     }
 
-    public void drink(String drink){
+    public void drink(String drink){// parameter will allow different String inputs of cats drinks
 
         System.out.println(name +" is drinking "+drink);
     }
 
     public void setCatInfo(String catBreed, String catColor, int catAge, String catName){
-        breed = catBreed;
+        breed = catBreed; // assigns parameter to the variable Object
         color = catColor;
         age = catAge;
         name = catName;

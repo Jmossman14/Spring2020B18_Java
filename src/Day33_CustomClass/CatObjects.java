@@ -11,7 +11,10 @@ public class CatObjects {
         // System.out.println( cat1 ); // Sasha, breed is Siemes, color is  White,  2 years old
 
         Cat cat2 = new Cat();
+        System.out.println(cat2); // doesnt output anything since there is nothing assigned to the variable
         cat2.setCatInfo("Scottish", "Beige", 7,"Bobo" );
+        System.out.println(cat2); // will output since there is a variable assigned
+
 
         Cat cat3 = new Cat();
         cat3.setCatInfo("Calico","brown-white",6,"Cinnamon");
@@ -30,11 +33,13 @@ public class CatObjects {
         cat3.sleep();
 
         System.out.println("====================================");
+        // calling each method and adding catFood
         cat1.eat("cat treats");
         cat2.eat("fish");
         cat3.eat("sish kabab");
 
         System.out.println("=================================");
+        // calling each method and adding drink
         cat1.drink("water");
         cat2.drink("milk");
         cat3.drink("coffee");
