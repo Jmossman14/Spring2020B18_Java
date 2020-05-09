@@ -36,4 +36,4 @@ public class Carpet {
                 "\nTotal costs $"+calcCost();
     }
 
-}7
+}
