@@ -22,6 +22,8 @@ public class ExtractChars {
         ArrayList<Character> letters = new ArrayList<>(); // letters will be added to this arrayList - isLetter(); or isAlphabetic();
         ArrayList<Character> digits = new ArrayList<>(); // digits will be added to this arrayList - isDigit();
         ArrayList<Character> SpecialChars = new ArrayList<>(); // SpecialChars will be added to this arrayList
+        // from the string, if we call the toCharArray() method, what does it return us? it returns us a char array
+        // ==> we can assign it to a char array
 
         for(char each : arr){
             if(Character.isLetter(each)){// if character at arr is a Letter add to Letters

@@ -26,7 +26,11 @@ public class ExtractChars2 {
 
         for(int i = 0; i < str.length(); i++){
            char each = str.charAt(i); // will execute a char for each index of the string
-
+            // during each iteration, if i is letter we add it to letters list
+            // if each is digits ==> add it to digits list
+            // if each is special character ==> add to specialChars list
+            // either create condition depending on ascii table
+            // or we use this Character.isLetter() method, or Character.isAlphabetic() method
             if(Character.isLetter(each)){// if character at arr is a Letter add to Letters
                 letters.add(each); // output => [A, B, C, D, E, F, G]
             }
