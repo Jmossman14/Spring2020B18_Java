@@ -3,30 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/CapitolOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/CapitolOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/CatObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/CatObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/Duplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/Duplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/ExtractChars3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/UniqueObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/UniqueObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day33_CustomClass/carObjects2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/BankOfAmerica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/BankOfAmerica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/CapitolOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/CapitolOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Carpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/CarpetObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/CarpetObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/DogObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/DogObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/DogObjects2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/DogObjects2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/ObjectMemory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/ObjectMemory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/ScrumTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/StudentObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/StudentObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day34_CustomClass/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day34_CustomClass/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day37_Construct/CybertekStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day37_Construct/CybertekStudents.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day38/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day38_Constructors/Pizza.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +49,13 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CybertekStudentsObjects">
+  <component name="RunManager" selected="Application.EmployeeObjects">
     <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day37_Construct.CarObjects" />
+      <option name="MAIN_CLASS_NAME" value="Day39_AccessModifiers.CarObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day37_Construct.*" />
+          <option name="PATTERN" value="Day39_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CybertekStudentsObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day37_Construct.CybertekStudentsObjects" />
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day39_AccessModifiers.EmployeeObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day37_Construct.*" />
+          <option name="PATTERN" value="Day39_AccessModifiers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImportStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day37_Construct.ImportStatement" />
+    <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours._05_13_2020.InstanceTest" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day37_Construct.*" />
+          <option name="PATTERN" value="OfficeHours._05_13_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceBlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day37_Construct.InstanceBlock" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day38_Constructors.Test" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day37_Construct.*" />
+          <option name="PATTERN" value="Day38_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentsObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day37_Construct.StudentsObject" />
+    <configuration name="studentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OfficeHours._05_13_2020.studentObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day37_Construct.*" />
+          <option name="PATTERN" value="OfficeHours._05_13_2020.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CybertekStudentsObjects" />
+        <item itemvalue="Application.EmployeeObjects" />
         <item itemvalue="Application.CarObjects" />
-        <item itemvalue="Application.StudentsObject" />
-        <item itemvalue="Application.InstanceBlock" />
-        <item itemvalue="Application.ImportStatement" />
+        <item itemvalue="Application.studentObjects" />
+        <item itemvalue="Application.InstanceTest" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +146,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="return_Method" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1536" y="86" key="#Auto_Import" timestamp="1589294204788">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1536" y="86" key="#Auto_Import/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589294204788" />
     <state x="175" y="0" key="#Notifications" timestamp="1583783681191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -188,6 +170,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="380" y="2" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1586999463908" />
+    <state x="1873" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589301079530">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1873" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589301079530" />
     <state x="375" y="199" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1588268804563">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -202,37 +188,37 @@
     </state>
     <state x="468" y="115" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574394637" />
     <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587751893176" />
-    <state width="1294" height="275" key="GridCell.Tab.0.bottom" timestamp="1589243866853">
+    <state width="1625" height="168" key="GridCell.Tab.0.bottom" timestamp="1589468222190">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984676" />
     <state width="1289" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
-    <state width="1311" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1588861218009" />
-    <state width="1294" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589243866853" />
+    <state width="1294" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450473" />
+    <state width="1625" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589468222190" />
     <state width="1625" height="319" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589134055612" />
-    <state width="1294" height="275" key="GridCell.Tab.0.center" timestamp="1589243866810">
+    <state width="1625" height="168" key="GridCell.Tab.0.center" timestamp="1589468222190">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
-    <state width="1311" height="199" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1588861217926" />
-    <state width="1294" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589243866810" />
+    <state width="1294" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
+    <state width="1625" height="168" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589468222190" />
     <state width="1625" height="319" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589134055503" />
-    <state width="1294" height="275" key="GridCell.Tab.0.left" timestamp="1589243866809">
+    <state width="1625" height="168" key="GridCell.Tab.0.left" timestamp="1589468222190">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
-    <state width="1311" height="199" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1588861217880" />
-    <state width="1294" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589243866809" />
+    <state width="1294" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450462" />
+    <state width="1625" height="168" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589468222190" />
     <state width="1625" height="319" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589134055346" />
-    <state width="1294" height="275" key="GridCell.Tab.0.right" timestamp="1589243866810">
+    <state width="1625" height="168" key="GridCell.Tab.0.right" timestamp="1589468222190">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
-    <state width="1311" height="199" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1588861217951" />
-    <state width="1294" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589243866810" />
+    <state width="1294" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
+    <state width="1625" height="168" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589468222190" />
     <state width="1625" height="319" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589134055503" />
     <state width="524" height="211" key="GridCell.Tab.1.bottom" timestamp="1588207455246">
       <screen x="0" y="0" width="1366" height="728" />
@@ -267,11 +253,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="623" height="498" key="SwitcherDM/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584114177768" />
-    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589141475696">
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1589462449648">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="95" y="166" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588360350105" />
-    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587923249703" />
+    <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589462449648" />
     <state x="1480" y="229" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1588861876989" />
     <state x="93" y="165" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589141475696" />
     <state x="206" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587246094767">
@@ -405,6 +391,179 @@
           <url>file://$PROJECT_DIR$/src/Day37_Construct/CybertekStudents.java</url>
           <line>22</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/SalaryObject_WarmUp.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG_Objects.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG_Objects.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG_Objects.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG_Objects.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day38_Constructors/dOG.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Instances.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Instances.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Instances.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/statics.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/statics.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/statics.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Employee_WarmUp.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/Car_WarmUp.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
+          <line>14</line>
+          <properties class="OfficeHours._05_13_2020.Student" method="printScoolName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="60" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
