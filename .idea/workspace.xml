@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day39_AccessModifiers/ClassNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day39_AccessModifiers/ClassNotes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day38_Constructors/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day38_Constructors/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day38_Constructors/ConstructorCalls.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day38_Constructors/ConstructorCalls.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day38_Constructors/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day38_Constructors/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +50,13 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (1)">
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day39_AccessModifiers.CarObjects" />
+  <component name="RunManager" selected="Application.ConstructorQuiz">
+    <configuration name="ConstructorQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day40_Encapsulation.ConstructorQuiz" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day39_AccessModifiers.*" />
+          <option name="PATTERN" value="Day40_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours._05_13_2020.InstanceTest" />
+    <configuration name="EncapsulationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rescources.EncapsulationTest" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours._05_13_2020.*" />
+          <option name="PATTERN" value="Rescources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="studentObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours._05_13_2020.studentObjects" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day40_Encapsulation.Test" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="OfficeHours._05_13_2020.*" />
+          <option name="PATTERN" value="Day40_Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorQuiz" />
+        <item itemvalue="Application.EncapsulationTest" />
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.EmployeeObjects" />
-        <item itemvalue="Application.CarObjects" />
-        <item itemvalue="Application.studentObjects" />
-        <item itemvalue="Application.InstanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -149,6 +151,10 @@
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="1536" y="86" key="#Auto_Import/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589294204788" />
+    <state x="1686" y="113" key="#ConstructorQuiz" timestamp="1589557312555">
+      <screen x="1366" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1686" y="113" key="#ConstructorQuiz/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589557312555" />
     <state x="175" y="0" key="#Notifications" timestamp="1583783681191">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -187,37 +193,37 @@
     </state>
     <state x="468" y="115" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574394637" />
     <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587751893176" />
-    <state width="1625" height="168" key="GridCell.Tab.0.bottom" timestamp="1589471351632">
+    <state width="1307" height="167" key="GridCell.Tab.0.bottom" timestamp="1589557410025">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984676" />
     <state width="1289" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450473" />
-    <state width="1625" height="168" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589471351632" />
+    <state width="1307" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589557410025" />
     <state width="1625" height="319" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589134055612" />
-    <state width="1625" height="168" key="GridCell.Tab.0.center" timestamp="1589471351632">
+    <state width="1307" height="167" key="GridCell.Tab.0.center" timestamp="1589557410024">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
-    <state width="1625" height="168" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589471351632" />
+    <state width="1307" height="167" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589557410024" />
     <state width="1625" height="319" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589134055503" />
-    <state width="1625" height="168" key="GridCell.Tab.0.left" timestamp="1589471351632">
+    <state width="1307" height="167" key="GridCell.Tab.0.left" timestamp="1589557410024">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450462" />
-    <state width="1625" height="168" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589471351632" />
+    <state width="1307" height="167" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589557410024" />
     <state width="1625" height="319" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589134055346" />
-    <state width="1625" height="168" key="GridCell.Tab.0.right" timestamp="1589471351632">
+    <state width="1307" height="167" key="GridCell.Tab.0.right" timestamp="1589557410025">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
-    <state width="1625" height="168" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589471351632" />
+    <state width="1307" height="167" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589557410025" />
     <state width="1625" height="319" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589134055503" />
     <state width="524" height="211" key="GridCell.Tab.1.bottom" timestamp="1588207455246">
       <screen x="0" y="0" width="1366" height="728" />
@@ -560,6 +566,16 @@
           <url>file://$PROJECT_DIR$/src/Day39_AccessModifiers/EmployeeObjects.java</url>
           <line>4</line>
           <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day40_Encapsulation/Encapsulation.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Day40_Encapsulation/Encapsulation.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/OfficeHours/_05_13_2020/Student.java</url>
