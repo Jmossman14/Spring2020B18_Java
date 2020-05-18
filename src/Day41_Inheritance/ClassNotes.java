@@ -19,9 +19,9 @@ IS A vs. Has A
         sub class: class Dog extends Animal{}
                 Dog is an ANIMAL
         sub class: class Cat extends Animal{}
-                Cat is an ANIMAL
+                Cat is an ANIMALEmp
     HAS A:
-        class: class Engine(){}
+        class:pob'[  class Engine(){}
         class: class Car{
                     Engine ob1 = new Engine;}
                     Car HAS A engine

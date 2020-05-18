@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="35f092b4-283e-4450-8609-0efed1a0bc42" name="Default Changelist" comment="return_Method">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day41_Inheritance/BooksObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Day41_Inheritance/BooksObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day41_Inheritance/AudioBooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day41_Inheritance/AudioBooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day41_Inheritance/BooksObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day41_Inheritance/BooksObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day41_Inheritance/ClassNotes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day41_Inheritance/ClassNotes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +51,13 @@
       <recent name="OfficeHours" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BooksObjects">
+  <component name="RunManager" selected="Application.EmployeeObjects">
     <configuration name="BankOfAmericaObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day41_Inheritance.BankOfAmericaObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day41_Inheritance.*" />
+          <option name="PATTERN" value="Day41_Inheritance.Task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,7 +70,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day41_Inheritance.*" />
+          <option name="PATTERN" value="Day41_Inheritance.Task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,7 +96,7 @@
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day41_Inheritance.*" />
+          <option name="PATTERN" value="Day41_Inheritance.Task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EncapsulationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rescources.EncapsulationTest" />
+    <configuration name="EmployeeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day41_Inheritance.Task01.EmployeeObjects" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Rescources.*" />
+          <option name="PATTERN" value="Day41_Inheritance.Task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EmployeeObjects" />
         <item itemvalue="Application.BooksObjects" />
         <item itemvalue="Application.Dog" />
         <item itemvalue="Application.BankOfAmericaObjects" />
         <item itemvalue="Application.ConstructorQuiz" />
-        <item itemvalue="Application.EncapsulationTest" />
       </list>
     </recent_temporary>
   </component>
@@ -160,10 +164,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="444" y="6" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584382993688" />
-    <state x="449" y="229" width="467" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584555187845">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1918" y="318" width="532" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589826610668">
+      <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state x="449" y="229" width="467" height="281" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1584555187845" />
+    <state x="1918" y="318" width="532" height="269" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589826610668" />
     <state x="449" y="255" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1584555141238">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -191,37 +196,37 @@
     </state>
     <state x="468" y="115" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1587574394637" />
     <state x="1852" y="140" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1587751893176" />
-    <state width="1347" height="261" key="GridCell.Tab.0.bottom" timestamp="1589821043453">
+    <state width="1347" height="261" key="GridCell.Tab.0.bottom" timestamp="1589829246982">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984676" />
     <state width="1289" height="150" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450473" />
-    <state width="1347" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589821043453" />
+    <state width="1347" height="261" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589829246982" />
     <state width="1311" height="167" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589594661787" />
-    <state width="1347" height="261" key="GridCell.Tab.0.center" timestamp="1589821043453">
+    <state width="1347" height="261" key="GridCell.Tab.0.center" timestamp="1589829246982">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
-    <state width="1347" height="261" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589821043453" />
+    <state width="1347" height="261" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589829246982" />
     <state width="1311" height="167" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589594661787" />
-    <state width="1347" height="261" key="GridCell.Tab.0.left" timestamp="1589821043453">
+    <state width="1347" height="261" key="GridCell.Tab.0.left" timestamp="1589829246981">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450462" />
-    <state width="1347" height="261" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589821043453" />
+    <state width="1347" height="261" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589829246981" />
     <state width="1311" height="167" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589594661787" />
-    <state width="1347" height="261" key="GridCell.Tab.0.right" timestamp="1589821043453">
+    <state width="1347" height="261" key="GridCell.Tab.0.right" timestamp="1589829246982">
       <screen x="1366" y="0" width="1680" height="1010" />
     </state>
     <state width="1311" height="122" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@0.0.1366.728" timestamp="1588293984675" />
     <state width="1289" height="150" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1344.800@1366.0.1344.800" timestamp="1588297505255" />
     <state width="1294" height="275" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@0.0.1366.728" timestamp="1589246450472" />
-    <state width="1347" height="261" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589821043453" />
+    <state width="1347" height="261" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1680.1010@1366.0.1680.1010" timestamp="1589829246982" />
     <state width="1311" height="167" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589594661787" />
     <state width="524" height="211" key="GridCell.Tab.1.bottom" timestamp="1588207455246">
       <screen x="0" y="0" width="1366" height="728" />

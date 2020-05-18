@@ -1,6 +1,8 @@
 package Day41_Inheritance;
 
-public class AudioBooks extends Book  {
+import Day41_Inheritance.Book;
+
+public class AudioBooks extends Book {
        /* inherited from Book class:
             public String title;
             public String author;
