@@ -17,5 +17,18 @@ public class WarmUp_Rectangle extends WarmUp_Shape {
         this.width = width;
 
     }
+    // OVERRIDE Methods from Shape class (super class)
+    public void CalculateArea(){
+        area = length * width;
+        System.out.println("Area of the rectangle is: "+area);
+    }
+    public void CalculatePerimeter(){
+        perimeter = (width + length) * 2;
+        System.out.println("Perimeter of the rectangle is: "+perimeter);
+    }
+
+
+
+
 
 }

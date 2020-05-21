@@ -18,7 +18,7 @@ public class WarmUp_Shape { // Super class
 
 
     //instance methods:
-    public void CalculateArea(){
+       public void CalculateArea(){
         System.out.println("Area of the shape is: "+0);
     }
 

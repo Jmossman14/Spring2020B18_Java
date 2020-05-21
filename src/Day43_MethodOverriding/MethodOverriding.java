@@ -18,6 +18,7 @@ class Test{ // super class
 public class MethodOverriding extends Test { // subclass
 // method Overriding, takes the method from the super class and changes the statement
             // same method name, different functions(statement)
+    @Override
     public void method(){
         System.out.println("Zarina");
     }

@@ -5,10 +5,11 @@ public class WarmUp_ShapeObjects {
 
         WarmUp_Circle circle1 = new WarmUp_Circle(3);
 
-        System.out.println(circle1);
+        System.out.println(circle1.radius);
+        System.out.println(circle1.PI);
 
-        circle1.CalculateArea();// no output
-        circle1.CalculatePerimeter();// no output
+        circle1.CalculateArea();// change functionalities, override & add to statement: area = radius * radius * PI;
+        circle1.CalculatePerimeter();// change functionalities, override & add to statement:  perimeter = radius * 2 * PI;
 
         System.out.println("==================================");
 
@@ -17,15 +18,16 @@ public class WarmUp_ShapeObjects {
         System.out.println(rec1.length);
         System.out.println(rec1.width);
 
-        rec1.CalculateArea(); // no output
-        rec1.CalculatePerimeter();// no output
+        rec1.CalculateArea(); // change functionalities, override & add to statement:   area = length * width;
+        rec1.CalculatePerimeter();//change functionalities, override & add to statement:    perimeter = (width + length) * 2;
 
         System.out.println("==================================");
         WarmUp_Square square1 = new WarmUp_Square(3);
 
-        System.out.println(square1);
+        System.out.println(square1.side);
 
-        square1.CalculateArea(); // no output
-        square1.CalculatePerimeter();// no output
+        square1.CalculateArea(); // change functionalities, override & add to statement:    area = side * side;
+        square1.CalculatePerimeter();// change functionalities, override & add to statement:    perimeter = side * 4;
+
     }
 }
