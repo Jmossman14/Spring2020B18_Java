@@ -7,7 +7,7 @@ Access Modifiers:
 
     default: visible in same package
 
-    4333333p=========private: on5ly visible in same class & can NEVER be inherited
+    private: on5ly visible in same class & can NEVER be inherited
 
     PROTECTED: ALWAYS visible in same package and visible in sub class outside package
 

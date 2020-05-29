@@ -19,20 +19,46 @@ task01:
 					create an array of employees and store all those employee objects
 					use regular for loop to print out each employee' name and employeeIDwe-00
  */
-public class WarmUp_Person {
+/*
+create a class called Person
+				attributes:  name, age, gender
+				methods: eat, walk, sleep, drink, setPersonInfo
+*/
+public class Person {
+    // instance variable with public access modifier
     public String name;
     public int age;
     public char gender;
 
-    public void setPersonInfo(){
+    // methods
+    // setPersonInfo(): public to be accessible, instance to use instance variables, void not returning any thing, 3 parameters
+    public void setPersonInfo(String name, int age, char gender){
+        this.name = name;
+        this.gender = gender;
+        this.age = age;
+    }
 
+    // eat() method : instance: each object has its own copy and to use instance variables
+    public void eat(String food){
+        System.out.println(name + " is eating "+food);
+    }
+    // sleep() method
+    public void sleep(){
+        System.out.println(name+ " is sleeping");
+    }
+    public void walk(){
+        System.out.println(name + " is walking");
+    }
+    public void drink(String drink){
+        System.out.println(name +" is drinking "+drink);
     }
 
 
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
