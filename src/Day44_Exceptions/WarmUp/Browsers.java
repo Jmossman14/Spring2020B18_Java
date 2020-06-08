@@ -24,12 +24,12 @@ class ChromeBrowser extends Browsers{ // sub class
 // over ride accessModifier must be the same or more visible
     @Override
     protected void openBrowser() {
-        System.out.println("open the Chrome Browser");
+        System.out.println("open the Chrome RemoteWebDriver");
     }
 
     @Override
     protected void closeBrowser() {
-        System.out.println("close the Chrome Browser");
+        System.out.println("close the Chrome RemoteWebDriver");
     }
 }
 
@@ -37,12 +37,12 @@ class ChromeBrowser extends Browsers{ // sub class
 class FireFoxBrowser extends Browsers{
     @Override
     protected void openBrowser() {
-        System.out.println("open the FireFox Browser");
+        System.out.println("open the FireFox RemoteWebDriver");
     }
 
     @Override
     protected void closeBrowser() {
-        System.out.println("close the FireFox Browser");
+        System.out.println("close the FireFox RemoteWebDriver");
     }
 
 }
@@ -51,12 +51,12 @@ class FireFoxBrowser extends Browsers{
 class OperaBrowser extends Browsers{
     @Override
     protected void openBrowser() {
-        System.out.println("open the Opera Browser");
+        System.out.println("open the Opera RemoteWebDriver");
     }
 
     @Override
     protected void closeBrowser() {
-        System.out.println("close the Opera Browser");
+        System.out.println("close the Opera RemoteWebDriver");
     }
 
 }

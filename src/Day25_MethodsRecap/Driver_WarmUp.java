@@ -1,7 +1,7 @@
 package Day25_MethodsRecap;
 /*
 Warm up tasks:
-    1. write a return method named getDriver1 that accepts a string parameter called Browser
+    1. write a return method named getDriver1 that accepts a string parameter called RemoteWebDriver
                 if the browser name matches with {"chrome", "firefox", "id", "safari", "edge", "Opera"}, then it returns the name of that specific browser' driver
                     Ex: getDriver("chrome");  ==> "Chrome Driver"
                         getDriver("fireFOX"); ==> "FireFox Driver"
