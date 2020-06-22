@@ -16,10 +16,10 @@ abstract class AC implements I2  { // 3 abstract methods (1 from I1 & 1 from I2)
 
    abstract void method3();
 
-}
+}/*
 
 //regular class
-public abstract class extends_implementation extends AC { // 3 abstract methods inherited from the above classes and needs to be overridden
+public  class extends_implementation extends AC { // 3 abstract methods inherited from the above classes and needs to be overridden
 
     @Override
     public void method2() {
@@ -43,3 +43,4 @@ public abstract class extends_implementation extends AC { // 3 abstract methods 
 
         }
     }
+*/
